@@ -1,12 +1,12 @@
 # Google Analytics Charts
 
-Visualizing Google Analytics Data with Google Chart Tools without Authorization using PHP and JQUERY
+Visualizing Google Analytics Data with Google Chart Tools with automatic Authorization using PHP and JQUERY
 
 ###Usage:	
 Retrieving google analytics data from analytics account and displaying the results in the form of different chart representations without authorization.
 
 ###Technologies:
-1. PHP : Retrieving google Analytics data without authorization.
+1. PHP : Retrieving google Analytics data with automatic authorization.
 2. Jquery/Javascript : drawing google charts based on the analytics data.
 
 ###Applications:	
