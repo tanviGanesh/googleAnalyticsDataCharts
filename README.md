@@ -1,3 +1,3 @@
 # Google Analytics Chart
 
-###Visualizing Google Analytics Data with Google Chart Tools without Authorization using PHP and JQUERY 
+###Visualizing Google Analytics Data with Google Chart Tools with automatic Authorization using PHP and JQUERY 
